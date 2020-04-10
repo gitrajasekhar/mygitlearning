@@ -1,0 +1,11 @@
+They this file got created to check commit changes feature in git
+- i have created a file in my folder 
+- i have to run as git add so that first it addes the file to index
+- then i have to do commit
+- to know the untracked files - git status to be typed.
+
+
+asdfasdf
+asdf
+asdf
+adf
